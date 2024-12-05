@@ -1,0 +1,9 @@
+.idea
+node_modules
+src
+.eslintignore
+.eslintrc.cjs
+.prettierrc.json
+package-lock.json
+rollup.config.mjs
+tsconfig.json
